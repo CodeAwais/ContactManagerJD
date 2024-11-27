@@ -9,8 +9,6 @@ import java.util.ArrayList;
  *
  * @author awais
  */
-
-//ALSO TESTING GIT 
 public class ContactManager {
     private ArrayList<Contact> contactList = new ArrayList<>();
 
