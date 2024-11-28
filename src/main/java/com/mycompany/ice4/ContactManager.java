@@ -14,6 +14,8 @@ public class ContactManager {
     // a comment made in netbeans
 
 	// a comment made in github
+    
+    // a comment made on the branch "Friend"
 	
     private ArrayList<Contact> contactList = new ArrayList<>();
 
