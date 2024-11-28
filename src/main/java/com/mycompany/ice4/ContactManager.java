@@ -12,6 +12,9 @@ import java.util.ArrayList;
 public class ContactManager {
     
     // a comment made in netbeans
+
+	// a comment made in github
+	
     private ArrayList<Contact> contactList = new ArrayList<>();
 
     /*
