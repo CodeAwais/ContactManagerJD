@@ -10,6 +10,8 @@ import java.util.ArrayList;
  * @author awais
  */
 public class ContactManager {
+    
+    // a comment made in netbeans
     private ArrayList<Contact> contactList = new ArrayList<>();
 
     /*
